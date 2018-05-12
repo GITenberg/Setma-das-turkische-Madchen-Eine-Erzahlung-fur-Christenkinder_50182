@@ -1,10 +1,16 @@
 _repo: Setma-das-turkische-Madchen-Eine-Erzahlung-fur-Christenkinder_50182
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50182-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Barth, Christian Gottlob
     gutenberg_agent_id: '45740'
     url: http://www.gutenberg.org/2009/agents/45740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50182#Setma-das-turkische-Madchen-Eine-Erzahlung-fur-Christenkinder
 gutenberg_issued: '2015-10-11'
 gutenberg_type: Text
 identifiers:
